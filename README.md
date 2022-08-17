@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkiraDev646
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning html, css and JavaScript
+- 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...akirawendell@gmail.com
 
